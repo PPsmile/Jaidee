@@ -1,0 +1,44 @@
+{
+  "id": "62d570f1-30a4-4977-bfcb-29adcf3f6bd5",
+  "name": "website",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f42aa991-c226-4ab0-bb6f-d02cae85a46d",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "name": "unit-length-name",
+          "value": "$unit-length-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": "https://sites.google.com/ku.th/01418471/?fbclid\u003dIwAR1O-QoEB5NY7Zm0RLjp1-r6jEHlPDC1V9V2yViM_HbXh8gObb4CIio5C2I"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

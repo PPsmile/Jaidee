@@ -1,0 +1,31 @@
+{
+  "id": "600c8f01-63ed-4c88-80bc-76917d2fb031",
+  "name": "whatAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": "วิชา 01418471 Introduction to Software Engineering\nวิชานี้มุ่งเน้นให้นิสิตมีความรู้เกี่ยวกับหลักการวิศวกรรมซอฟต์แวร์เบื้องต้น รวมถึง เทคโนโลยีและเครื่องมือที่ช่วยในการพัฒนาซอฟต์แวร์ เพื่อให้นิสิตสามารถนำความรู้และทักษะไปพัฒนาซอฟต์แวร์ได้อย่างมีประสิทธิภาพ และได้มาซึ่งซอฟต์แวร์ที่มีคุณภาพ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

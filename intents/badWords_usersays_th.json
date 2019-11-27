@@ -1,0 +1,128 @@
+[
+  {
+    "id": "0a8d38da-1b5f-4d00-801f-41ae7ca5e962",
+    "data": [
+      {
+        "text": "อี",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": "ดอก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4516ee03-7c9f-4d58-9372-f153ff2da80e",
+    "data": [
+      {
+        "text": "ควย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3b2f91c-edfe-4fcd-8668-4a8dd254bc05",
+    "data": [
+      {
+        "text": "สารเลว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec0dc5a3-524f-44c0-8f44-1fa9136c048e",
+    "data": [
+      {
+        "text": "อีเปรต",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe4ce063-fcea-49a6-a058-1d017a15aa21",
+    "data": [
+      {
+        "text": "อีบ้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d2eed81-4b9b-4647-a1d0-1d08cf16992a",
+    "data": [
+      {
+        "text": "ไอส้นตีน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "572955b5-2435-427d-be49-085fdd8518bc",
+    "data": [
+      {
+        "text": "ไอเหี้ย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76943409-e937-4bac-b730-15f57500996f",
+    "data": [
+      {
+        "text": "ไอสัส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "355ef84f-1a92-4d15-88ed-05b37561d681",
+    "data": [
+      {
+        "text": "ไอเลว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b46160e-cfe7-4570-92c3-d4a697e87187",
+    "data": [
+      {
+        "text": "ไอเวร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

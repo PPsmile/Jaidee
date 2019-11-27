@@ -1,0 +1,44 @@
+{
+  "id": "3e9b4a30-2541-4545-9dca-4b14f43a7ebf",
+  "name": "teacher",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": "ผศ.ดร.อุษา สัมมาพันธ์"
+        },
+        {
+          "type": 4,
+          "lang": "th",
+          "condition": "",
+          "payload": {
+            "line": {
+              "type": "image",
+              "originalContentUrl": "https://cs.sci.ku.ac.th/wp-content/uploads/2019/01/BOY_9466.jpeg",
+              "previewImageUrl": "https://cs.sci.ku.ac.th/wp-content/uploads/2019/01/BOY_9466.jpeg",
+              "animated": false
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

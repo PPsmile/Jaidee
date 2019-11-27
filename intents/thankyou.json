@@ -1,0 +1,47 @@
+{
+  "id": "f14d8e46-1bb4-4265-ac20-5963c8b9fc25",
+  "name": "thankyou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6dcf400-b688-4f32-b52a-f7db6ec256bb",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": [
+            "ยินดีค่ะ",
+            "ใจดี ยินดีค่ะ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

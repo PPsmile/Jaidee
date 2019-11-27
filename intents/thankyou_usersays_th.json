@@ -1,0 +1,208 @@
+[
+  {
+    "id": "96b1ec96-4faa-43fb-a270-44b9142d33af",
+    "data": [
+      {
+        "text": "เลิฟ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a340871b-7384-43be-bed0-ef1be34aa6bd",
+    "data": [
+      {
+        "text": "รักนะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f8bfc7-6576-4110-89df-af11e5840095",
+    "data": [
+      {
+        "text": "love",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "349756b2-15fa-47ea-bf96-f20e220ba02e",
+    "data": [
+      {
+        "text": "บัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f9bee0e-0053-4385-bf8a-45a484169afe",
+    "data": [
+      {
+        "text": "ลาละ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54eb2cb3-3b30-438c-8801-4da566302016",
+    "data": [
+      {
+        "text": "ลาก่อน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21861e26-5f3d-404b-bcf2-d0279e04c005",
+    "data": [
+      {
+        "text": "bye",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f89100b2-d8d5-46b8-8a83-ae584c0d5d1f",
+    "data": [
+      {
+        "text": "ดีมาก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17c3186c-6a04-4077-a027-ab53f997eb93",
+    "data": [
+      {
+        "text": "ใจมาก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d7e18f4-2969-4d04-858d-5bb2d871e0d8",
+    "data": [
+      {
+        "text": "ขอบใจ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "475bfd17-33bf-48ae-b54b-10af7296724f",
+    "data": [
+      {
+        "text": "thank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "250fd5c0-0b8a-4535-8698-c9df908d9769",
+    "data": [
+      {
+        "text": "thx",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4786c401-a5ca-4b2e-a978-992cf6572b7d",
+    "data": [
+      {
+        "text": "ขอบคุณค่ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3272f1f7-32a8-4c16-a229-4dc8e293cf7c",
+    "data": [
+      {
+        "text": "ขอบคุณครับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83403080-fc19-4e66-a8af-e342502f6df8",
+    "data": [
+      {
+        "text": "ขอบคุณจ้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8806c499-e06e-49ec-b1fc-a4f3f0371374",
+    "data": [
+      {
+        "text": "ขอบคุณ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39a5d771-b6b5-4408-9cd7-fb9a657a088e",
+    "data": [
+      {
+        "text": "thankyou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "id": "2731ab76-57fe-4874-bc2f-dfbd186d12a8",
+    "data": [
+      {
+        "text": "hi",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b948c5d-a662-45c9-a2d7-b55907242bc0",
+    "data": [
+      {
+        "text": "ฮาย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7cab45d-69f7-4902-a8ac-fc5ef4c172c3",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edaf2095-f34d-4163-b938-e38b927a59e5",
+    "data": [
+      {
+        "text": "เฮลโหล",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd4be6cf-af97-4cf0-87f0-24b9a48d40be",
+    "data": [
+      {
+        "text": "โย่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d3d9c25-7326-412f-bf01-9ef0fea953b0",
+    "data": [
+      {
+        "text": "sawasdee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc59b024-31aa-4cf7-8e28-75a617dabc04",
+    "data": [
+      {
+        "text": "good evening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ae8d36d-a050-46d8-97e2-0be4fb2073fc",
+    "data": [
+      {
+        "text": "Good afternoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d3ed0a3-d313-43b5-92ff-bd5f4519ace3",
+    "data": [
+      {
+        "text": "Good Morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a77d8554-d5d4-4517-89d8-f12fef492825",
+    "data": [
+      {
+        "text": "jaidee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a011c95c-cd95-400b-8de0-17dda90125b7",
+    "data": [
+      {
+        "text": "ใจดี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb1007cb-e0d1-4bcc-bbe0-cf91235e628f",
+    "data": [
+      {
+        "text": "สวัสดี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b113a103-5c51-4215-b106-90d32ef79cb3",
+    "data": [
+      {
+        "text": "หวัดดีจ้ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bd8ff17-6bdf-4555-8b79-e11b16bc636e",
+    "data": [
+      {
+        "text": "สวัสดีน้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2d2dac3-83b0-4580-bd09-e00ffe249c0b",
+    "data": [
+      {
+        "text": "ว่าไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51dc49c2-ee0a-4ece-85e1-9fd07f794dfd",
+    "data": [
+      {
+        "text": "สวีดัส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2779cb9e-e571-4e6b-ae4d-dd9eebfa525e",
+    "data": [
+      {
+        "text": "สวัสดีจ้ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e10f184-b0cb-42c8-9b2d-907d2c7fc187",
+    "data": [
+      {
+        "text": "หวัดดีจ้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a57920fa-5f0b-4812-a355-125bc4eaed5b",
+    "data": [
+      {
+        "text": "ไม่เจอกันตั้งนาน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa4d04f6-9179-48b1-9b53-f945939c5208",
+    "data": [
+      {
+        "text": "ขอทักทาย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48998c6e-6b16-43b6-acb4-d45c00963136",
+    "data": [
+      {
+        "text": "หวัดดี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

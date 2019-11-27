@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1ad8d085-e904-47f5-963a-46ab6c60a836",
+    "data": [
+      {
+        "text": "อาจารย์สวยไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff8575c-865b-4e04-a794-08af7273130f",
+    "data": [
+      {
+        "text": "อาจารย์ใจดีไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

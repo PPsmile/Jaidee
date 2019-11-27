@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0e42f58c-3bff-401f-98cc-6bb4effd4be1",
+    "data": [
+      {
+        "text": "ออฟฟิศอาจารย์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c451b4ce-facb-4572-92bc-12da3b455afe",
+    "data": [
+      {
+        "text": "อาจารย์อยู่ห้องไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4808280-e6b9-4894-aca8-2020dc41bed3",
+    "data": [
+      {
+        "text": "ห้องพักครู",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c27322e4-1284-40d1-abb1-0bf7604452a3",
+    "data": [
+      {
+        "text": "ห้องพักอาจารย์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

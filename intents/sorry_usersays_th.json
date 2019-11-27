@@ -1,0 +1,50 @@
+[
+  {
+    "id": "85421b7a-9b16-4609-ad1b-37590d711270",
+    "data": [
+      {
+        "text": "แย่มาก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "115ffdaf-22ed-4bd5-b0ea-8c517fd0e039",
+    "data": [
+      {
+        "text": "รำคาญ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f375ab2-48b0-451c-b7c2-c45bfb238970",
+    "data": [
+      {
+        "text": "ไร้ประโยชน์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "340e36d5-be2a-4653-8b7c-a04ed43ff383",
+    "data": [
+      {
+        "text": "ช่วยอะไรไม่ได้เลย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

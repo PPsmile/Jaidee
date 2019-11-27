@@ -1,0 +1,53 @@
+{
+  "id": "86b1d025-1b2b-4515-b4ed-7339cae4cf91",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb3e0207-6f82-4cd0-9b19-f4bdaaffad9f",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": [
+            "สวัสดีค่ะ",
+            "สบายดีไหมคะ",
+            "มีอะไรให้ Jaidee ช่วยไหมคะ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "473f381b-6f39-492e-8d26-c0718926cd90",
+    "data": [
+      {
+        "text": "หน่วยกิต",
+        "userDefined": false
+      },
+      {
+        "text": "เท่า",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "ไหร่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf506e4c-977e-4d75-ad76-3cf1ff67d46a",
+    "data": [
+      {
+        "text": "วิชานี้กี่หน่วยกิต",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3f58cea-0c99-44d4-8074-5df8e9ae7e97",
+    "data": [
+      {
+        "text": "เครดิตวิชานี้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

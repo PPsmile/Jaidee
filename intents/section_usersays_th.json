@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bf28ba4a-eb0e-470e-869f-5c2c3552160a",
+    "data": [
+      {
+        "text": "sec อะไรบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd0a4c90-9e1b-4c8a-afbb-4ec8c595821a",
+    "data": [
+      {
+        "text": "มีกี่ sec",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03a0845a-d06d-4f32-a1b9-e3f4a2caabdb",
+    "data": [
+      {
+        "text": "มีเซ็คไหนบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a40768cd-1722-41d4-b766-2cbd322cd88f",
+    "data": [
+      {
+        "text": "มีหมู่อะไรบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "886e7cc2-089e-46ee-b0ef-f9057983cbac",
+    "data": [
+      {
+        "text": "เรียนกี่หมู่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9b0d71f-85b9-408d-b167-4f994c61a86f",
+    "data": [
+      {
+        "text": "เรียนกี่เซค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

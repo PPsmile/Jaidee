@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a1fdb8ba-8bc5-4308-a986-586ce07020ca",
+    "data": [
+      {
+        "text": "ช่วยอะไรหน่อยสิ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffbaac66-7940-4932-85a4-2445484f13ba",
+    "data": [
+      {
+        "text": "ขอถามหน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a0b73fb-fbf5-44f9-a712-fc55b1c60b15",
+    "data": [
+      {
+        "text": "มีอะไรให้ช่วยหน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

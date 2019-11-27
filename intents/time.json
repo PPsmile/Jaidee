@@ -1,0 +1,37 @@
+{
+  "id": "c991b5c1-4153-4098-b72b-2b1fcadb1a5f",
+  "name": "time",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": "บรรยาย: พฤหัสบดี 11.00 - 13.00 น. ห้อง SC45 703\nปฏิบัติการ: ก่อนมิดเทอม: พฤหัสบดี 8.00 - 10.00 น. ห้อง SC45 708\nหลังมิดเทอม: จันทร์ 11.00 - 13.00 น. ห้อง SC45 708"
+        },
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

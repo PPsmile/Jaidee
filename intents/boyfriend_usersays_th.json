@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b496d58b-5b31-46d3-be61-9f86787afdf9",
+    "data": [
+      {
+        "text": "ขอเป็นแฟนหน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3641ece4-cc7f-4aed-8433-300a17d61c3f",
+    "data": [
+      {
+        "text": "มีแฟนยัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd3de72f-58b0-4ff4-b905-5e6e004f8bf2",
+    "data": [
+      {
+        "text": "มีคนรักหรือยัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1045680-20e2-4e6c-a79f-2fc6f4f6b44a",
+    "data": [
+      {
+        "text": "มีแฟนหรือยัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

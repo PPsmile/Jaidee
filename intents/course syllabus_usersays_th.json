@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6ff855ec-6808-4041-a2a6-f5432793fa03",
+    "data": [
+      {
+        "text": "ซีรีบัส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e8e8f2-dd6c-4abc-a614-e5a3c0a75061",
+    "data": [
+      {
+        "text": "คอร์สซีรีบัส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14ef06f6-287f-4297-b512-938541bbd1a3",
+    "data": [
+      {
+        "text": "syllabus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c308366e-fbb6-4f4f-bbbc-ad5bb03b32ad",
+    "data": [
+      {
+        "text": "course syllabus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

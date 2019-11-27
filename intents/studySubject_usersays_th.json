@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0f4f4406-80c1-4fdc-a975-7badf5b14fef",
+    "data": [
+      {
+        "text": "วิชาพื้นฐานของวิชานี้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "260a06fc-de55-491e-af8f-53c3ba573e32",
+    "data": [
+      {
+        "text": "ต้องเรียนอะไรมาก่อน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d1697cb-bd49-48c6-a9b5-c712e27c8ae0",
+    "data": [
+      {
+        "text": "เป็นตัวต่อของวิชาอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c4db52b-dcec-428b-aef5-223e46e680bc",
+    "data": [
+      {
+        "text": "ลงเรียนได้ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

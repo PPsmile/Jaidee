@@ -1,0 +1,214 @@
+[
+  {
+    "id": "cdacc32f-fb15-4af2-8cf2-a7e12cb352cd",
+    "data": [
+      {
+        "text": "เรียนวันไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce920399-a66d-40cf-9ab5-81fcb4cb5be5",
+    "data": [
+      {
+        "text": "เรียนกี่",
+        "userDefined": false
+      },
+      {
+        "text": "ชั่วโมง",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8027ed29-1bb8-4c51-8c8d-67f6d0b426af",
+    "data": [
+      {
+        "text": "จบ",
+        "userDefined": false
+      },
+      {
+        "text": "กี่โมง",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2eadc8be-1bcb-4561-b510-3419e3fa4af6",
+    "data": [
+      {
+        "text": "เรียนจบ",
+        "userDefined": false
+      },
+      {
+        "text": "กี่โมง",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75e1f473-b8d5-40ed-bb25-e7b10d44bc05",
+    "data": [
+      {
+        "text": "เลิก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71bfc53b-dd54-46f3-8afc-c311e6a774e2",
+    "data": [
+      {
+        "text": "เลิกสอน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dba678e-8d4f-49e2-ade1-885788934682",
+    "data": [
+      {
+        "text": "เลิกเรียน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f95f280-ee84-449b-9d51-bfc3db2a45e1",
+    "data": [
+      {
+        "text": "เลิก",
+        "userDefined": false
+      },
+      {
+        "text": "กี่โมง",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7904b414-93cf-4833-9206-090552218116",
+    "data": [
+      {
+        "text": "เวลาไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77f9d475-b9aa-471f-9554-75ade124da85",
+    "data": [
+      {
+        "text": "เริ่มตอนไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a70bb14e-b891-449e-8b30-2117e198f9e1",
+    "data": [
+      {
+        "text": "เริ่มเรียน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a279781b-0b18-444a-8186-d4cc308c6f4f",
+    "data": [
+      {
+        "text": "เริ่มกี่โมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93c7874f-7c8a-4ad0-a61a-cb53b8255ece",
+    "data": [
+      {
+        "text": "เวลาเรียน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b900316a-6567-4c32-95d0-e576ba8f8496",
+    "data": [
+      {
+        "text": "เวลา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "956ff686-f3d6-49da-b600-dfeb66cd3d40",
+    "data": [
+      {
+        "text": "กี่โมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "448d9eba-c47d-4e2c-a865-ae2a8141c5bc",
+    "data": [
+      {
+        "text": "เรียนกี่โมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

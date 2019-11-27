@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fb7c3ed5-4a6a-436c-ade7-cd6658b5994c",
+    "data": [
+      {
+        "text": "อาจารย์ชื่ออะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72f3b8db-2056-4a0e-8e83-114e0f99315c",
+    "data": [
+      {
+        "text": "เรียนกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aca4be48-35bd-4902-9178-20de71e84c7a",
+    "data": [
+      {
+        "text": "ผู้สอน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6bb4d186-4f45-4add-931c-c6b4c9acd4f0",
+    "data": [
+      {
+        "text": "อาจารย์อะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "896790ae-7622-4716-be18-e002ee5aab52",
+    "data": [
+      {
+        "text": "คนสอน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "821c9ed6-ac69-45ad-b01b-bbb93fdebf7b",
+    "data": [
+      {
+        "text": "ใครสอน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

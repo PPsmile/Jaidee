@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5729a6bd-e4ab-4477-b42c-02e074953240",
+    "data": [
+      {
+        "text": "ใจดีช่วยอะไรได้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8031dff2-7fae-474f-b856-b86dd3eeeeb7",
+    "data": [
+      {
+        "text": "ช่วยอะไรได้บ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d6eb490-d5c8-47de-8668-f4af6822ad5a",
+    "data": [
+      {
+        "text": "ทำอะไรได้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34be8ba7-e873-4a43-a36a-e5aef24ac17e",
+    "data": [
+      {
+        "text": "ทำอะไรได้บ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

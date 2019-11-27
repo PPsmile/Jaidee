@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f520405f-c437-4904-b759-cce518d5d84a",
+    "data": [
+      {
+        "text": "ใจดีเหรอ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9990f6ec-3ec9-40b8-9cd7-bfa5bde54c3d",
+    "data": [
+      {
+        "text": "ใครเหรอ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a46cf29-2d6d-4e33-921f-370c97aa4282",
+    "data": [
+      {
+        "text": "ใครวะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50e3b9d9-526f-4303-8cab-f9811d6152a6",
+    "data": [
+      {
+        "text": "ใครเนี่ย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce3af4f9-321f-446b-a95b-6bd32bcfdb93",
+    "data": [
+      {
+        "text": "นี่คือใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e529e561-647e-4427-9a0c-10b617b8c349",
+    "data": [
+      {
+        "text": "ชื่ออะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

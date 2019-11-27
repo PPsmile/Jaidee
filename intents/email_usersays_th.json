@@ -1,0 +1,98 @@
+[
+  {
+    "id": "945a82a5-0a96-4bcf-851e-f8f9ff726cde",
+    "data": [
+      {
+        "text": "อีเมล์ครู",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ddcf50b-243c-4e7e-b2a8-c563f9b35868",
+    "data": [
+      {
+        "text": "นัดอาจารย์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67c96d64-cb21-4a09-8ef3-a86bdc3de37b",
+    "data": [
+      {
+        "text": "ติดต่ออาจารย์ทางไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04dba60b-4de2-4c8b-a2bd-e20419a1b28e",
+    "data": [
+      {
+        "text": "ติดต่ออาจารย์ยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8c2e46b-d72c-4a01-a864-6b0b58f4d46a",
+    "data": [
+      {
+        "text": "เมล์อาจารย์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e687600b-ced0-4038-b729-12910ffee5d8",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3790729c-9485-4af2-ba65-d4816a08e62d",
+    "data": [
+      {
+        "text": "ขอเมล์หน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a0668b6-5238-4a3f-87b7-f72d37160e24",
+    "data": [
+      {
+        "text": "อีเมล์อาจารย์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

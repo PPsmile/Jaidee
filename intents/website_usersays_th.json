@@ -1,0 +1,138 @@
+[
+  {
+    "id": "58608b31-14a2-4b9a-ae81-6c897f67d15d",
+    "data": [
+      {
+        "text": "ลิงค์",
+        "alias": "unit-length-name",
+        "meta": "@sys.unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": "เว็บไซต์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91d762d1-0691-4c66-8f41-ecad0672167e",
+    "data": [
+      {
+        "text": "ขอ",
+        "userDefined": false
+      },
+      {
+        "text": "ลิงค์",
+        "alias": "unit-length-name",
+        "meta": "@sys.unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": "หน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfa3753c-2b4a-4687-9ee7-4f1e39650332",
+    "data": [
+      {
+        "text": "ขอลิงก์หน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8a095be-e211-435f-a46d-9053264ec050",
+    "data": [
+      {
+        "text": "เว็บ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae722df1-819f-46d4-8b69-3f7691daeb68",
+    "data": [
+      {
+        "text": "เว็บไซต์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65110127-c106-4370-b58f-3e725b194303",
+    "data": [
+      {
+        "text": "เว็บหน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "425bc7d7-e927-41f6-8c1c-854f4cd438e2",
+    "data": [
+      {
+        "text": "ขอเว็บหน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df0a6703-78b1-4382-b2d5-4b56951f79cd",
+    "data": [
+      {
+        "text": "ขอเว็บไซต์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9064467-11a9-48ff-897a-0334b7be84e1",
+    "data": [
+      {
+        "text": "web",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a691f605-92d8-4290-9226-9e3cb8143020",
+    "data": [
+      {
+        "text": "website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

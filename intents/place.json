@@ -1,0 +1,37 @@
+{
+  "id": "ba39076d-5f66-447b-ac08-9cb8001eac52",
+  "name": "place",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": "บรรยาย: พฤหัสบดี ห้อง SC45 703\nปฏิบัติการ: ก่อนมิดเทอม: พฤหัสบดี ห้อง SC45 708\nหลังมิดเทอม: จันทร์ ห้อง SC45 708"
+        },
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

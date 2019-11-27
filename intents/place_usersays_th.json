@@ -1,0 +1,122 @@
+[
+  {
+    "id": "60b62f01-5ae3-4c28-9648-dd3e304f30a6",
+    "data": [
+      {
+        "text": "ห้องอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7854d6f6-4e70-4659-8f8e-780a21e078b7",
+    "data": [
+      {
+        "text": "ห้อง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "734933f1-1860-4de5-b0d2-31939f956f5a",
+    "data": [
+      {
+        "text": "เรียนห้องอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e914c498-afa9-4622-8fd9-c8d0f167e319",
+    "data": [
+      {
+        "text": "เรียนชั้นไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32f09b80-f15c-4df6-b97e-b913225ae6f1",
+    "data": [
+      {
+        "text": "เรียนไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40c61142-64d9-4c19-892d-8cf578b93540",
+    "data": [
+      {
+        "text": "ที่เรียน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38388858-c337-425f-b0f9-49f4851ced0e",
+    "data": [
+      {
+        "text": "สถานที่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22cca75c-de1e-4b11-9a00-00b005da7777",
+    "data": [
+      {
+        "text": "สถานที่เรียน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3661d20f-8655-4321-a39c-27fbf6c0183b",
+    "data": [
+      {
+        "text": "เรียนที่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8117d074-1863-499c-afe3-2c3869c39a20",
+    "data": [
+      {
+        "text": "เรียนห้องไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

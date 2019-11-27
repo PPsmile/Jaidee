@@ -1,0 +1,96 @@
+[
+  {
+    "id": "5683e629-a0cb-49e1-82ba-58e86b1575f5",
+    "data": [
+      {
+        "text": "เท่า",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "ไหร่ถึงได้ A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "880e2f36-1664-45c8-9a75-3480371a6b85",
+    "data": [
+      {
+        "text": "เท่า",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "ไหร่ถึงได้เอ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7457237-2e4a-40ac-8ed7-ff942211e250",
+    "data": [
+      {
+        "text": "จะได้เกรด A ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbbf95db-32c6-4c10-be5c-1fe1420c9c92",
+    "data": [
+      {
+        "text": "จะติด F ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c1bca09-5401-4795-a716-67ef8ea10cb2",
+    "data": [
+      {
+        "text": "จะติดเอฟไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a11ebc47-ca55-4631-8639-c006b486c703",
+    "data": [
+      {
+        "text": "ได้คะแนน",
+        "userDefined": false
+      },
+      {
+        "text": "เท่า",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "ไหร่ถึงผ่าน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

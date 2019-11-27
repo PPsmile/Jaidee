@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7ac2fd14-6122-439e-9cac-87d0f0a67de2",
+    "data": [
+      {
+        "text": "การตัดเกรด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "770a3aa7-90c2-4b54-b2a3-a74bacccd157",
+    "data": [
+      {
+        "text": "ตัดเกรดยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d5df1c1-a506-4925-8343-7567cc50930b",
+    "data": [
+      {
+        "text": "การคิดเกรด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "130dc0de-b7c2-4a2e-a541-1ba586bd28b0",
+    "data": [
+      {
+        "text": "เกณฑ์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf7dbe5d-31c7-443b-b012-20acbec3e0de",
+    "data": [
+      {
+        "text": "เกณฑ์การคิดคะแนน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cfeb512-f0ca-4f5a-adb6-b5b7cb461e30",
+    "data": [
+      {
+        "text": "คะแนนคิดกี่เปอร์เซ็น",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "443b976e-5093-4aaa-8e81-ea99e6543019",
+    "data": [
+      {
+        "text": "การคิดคะแนน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

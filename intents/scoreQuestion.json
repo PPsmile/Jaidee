@@ -1,0 +1,47 @@
+{
+  "id": "106239f5-0cd4-48b1-8525-2fbb95552cf2",
+  "name": "scoreQuestion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "367a4677-d2a8-439d-b7a7-c0f84f086c24",
+          "required": false,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "condition": "",
+          "speech": [
+            "ขึ้นอยู่กับคะแนนเก็บและโปรเจ็คค่ะ",
+            "ขึ้นอยู่กับดุลยพินิจของอาจารย์ผู้สอนค่ะ"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
